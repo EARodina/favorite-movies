@@ -1,10 +1,11 @@
-# Interview Management
+# Favorite Movies
 
 <img src="https://github.com/ENelyubova/favorite-movies/blob/master/app.png">
 
 ## Tech Stack
 
 **Vue 3**
+
 **Pinia**
 
 # Getting Started
